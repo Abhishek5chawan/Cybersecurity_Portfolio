@@ -59,6 +59,18 @@ apply analytical and technical skills in monitoring, threat detection, and incid
               <span className="sr-only">Phone</span>
             </Button>
           </a> */}
+          <a
+  href="https://my-portfolio-blue-beta-43.vercel.app/"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-flex"
+  title="MERN Portfolio"
+>
+  <Button variant="outline">
+    MERN Portfolio
+  </Button>
+</a>
+
           <label
   className="inline-flex items-center justify-center rounded-2xl border border-input bg-background p-2 shadow-sm hover:bg-accent hover:text-accent-foreground cursor-pointer"
   title="Email"
